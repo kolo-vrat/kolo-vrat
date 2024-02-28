@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandar Gjorgjevski</h1>
-<h3 align="center">Diving deep into the world of bits and bytes as a computer science student @ FEEIT, Skopje, Macedonia</h3>
+<h3 align="center">Harnessing the power of technology to shape a brighter future, with a passionate belief in the transformative potential of code</h3>
 
 - 📫 How to reach me **aleksandarski@yandex.com**
 
